@@ -1,1 +1,1 @@
-# Pytorch_examples
+# pytorch-examples
